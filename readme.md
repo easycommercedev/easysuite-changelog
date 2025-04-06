@@ -29,9 +29,6 @@ Use the `[changelog]` shortcode in any post, page, or widget.
 [changelog slug="easycommerce" version="0.9.6" heading="h3"]
 ```
 
-![image](https://github.com/user-attachments/assets/6b2c082c-b765-4943-b923-80fad8fcc066)
-
-
 ## Developer Notes
 
 - Uses `wp_remote_get()` to fetch the `readme.txt`
